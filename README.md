@@ -92,5 +92,5 @@ I'm an ECE student researching **deep learning and reinforcement learning for qu
 <!-- SNAKE_END -->
 
 <div align="center">
-  <sub>✨ Profile views: <img src="https://komarev.com/ghpvc/?username=rudra454545&color=00C7FF" alt="Profile views" /></sub>
+  <sub> <img src="https://komarev.com/ghpvc/?username=rudra454545&color=00C7FF" alt="Profile views" /></sub>
 </div>
